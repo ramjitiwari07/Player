@@ -121,7 +121,7 @@ MERGED from [com.android.support:support-compat:25.2.0] C:\Users\mapit06\.gradle
 		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
 		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:14:9-42
-activity#com.androidhive.musicplayer.MainActivity
+activity#com.androidplayerapp.musicplayer.MainActivity
 ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:16:9-26:20
 	android:label
 		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:19:13-45
@@ -130,7 +130,7 @@ ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\mai
 	android:theme
 		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:17:13-51
 	android:name
-		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:18:13-41
+		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:18:13-73
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
@@ -141,9 +141,9 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
 		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:24:27-74
-activity#com.androidhive.musicplayer.PlayListActivity
-ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:29:9-31:48
+activity#com.androidplayerapp.musicplayer.PlayListActivity
+ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:29:9-31:80
 	android:theme
 		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:30:13-51
 	android:name
-		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:31:13-45
+		ADDED from C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\src\main\AndroidManifest.xml:31:13-77

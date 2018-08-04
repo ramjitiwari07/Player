@@ -19,7 +19,7 @@
         android:label="@string/app_name"
         android:testOnly="true" >
         <activity
-            android:name="com.androidhive.musicplayer.MainActivity"
+            android:name="com.androidplayerapp.musicplayer.MainActivity"
             android:configChanges="keyboardHidden|orientation"
             android:label="@string/app_name"
             android:theme="@style/Hostal_AppTheme" >
@@ -30,7 +30,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.androidhive.musicplayer.PlayListActivity"
+            android:name="com.androidplayerapp.musicplayer.PlayListActivity"
             android:theme="@style/Hostal_AppTheme" />
     </application>
 

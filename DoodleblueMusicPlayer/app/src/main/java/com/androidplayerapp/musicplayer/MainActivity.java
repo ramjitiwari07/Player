@@ -1,4 +1,4 @@
-package com.androidhive.musicplayer;
+package com.androidplayerapp.musicplayer;
 
 import java.io.IOException;
 import java.util.List;
@@ -30,6 +30,7 @@ import com.Manager.AllPackageManager;
 import com.Manager.CallBackManager;
 import com.Manager.FetchListManager;
 import com.android.db.SongsList;
+import com.androidhive.musicplayer.R;
 import com.androidplayerapp.musicplayer.PlayListActivity;
 import com.androidplayerapp.musicplayer.SongsManager;
 import com.androidplayerapp.musicplayer.Utilities;

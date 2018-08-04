@@ -15,7 +15,6 @@ import android.widget.ListView;
 import com.Manager.AllPackageManager;
 import com.Manager.ApplicationViewAdapter;
 import com.android.db.SongsList;
-import com.androidhive.musicplayer.MainActivity;
 import com.androidhive.musicplayer.R;
 
 public class PlayListActivity extends Activity {

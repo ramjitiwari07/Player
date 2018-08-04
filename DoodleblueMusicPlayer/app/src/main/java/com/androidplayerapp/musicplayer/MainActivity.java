@@ -30,6 +30,9 @@ import com.Manager.AllPackageManager;
 import com.Manager.CallBackManager;
 import com.Manager.FetchListManager;
 import com.android.db.SongsList;
+import com.androidplayerapp.musicplayer.PlayListActivity;
+import com.androidplayerapp.musicplayer.SongsManager;
+import com.androidplayerapp.musicplayer.Utilities;
 import com.utils.Constant;
 
 public class MainActivity extends Activity implements OnCompletionListener, SeekBar.OnSeekBarChangeListener {

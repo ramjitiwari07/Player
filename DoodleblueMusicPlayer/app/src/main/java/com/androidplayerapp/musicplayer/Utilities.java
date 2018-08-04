@@ -1,4 +1,4 @@
-package com.androidhive.musicplayer;
+package com.androidplayerapp.musicplayer;
 
 
 public class Utilities {

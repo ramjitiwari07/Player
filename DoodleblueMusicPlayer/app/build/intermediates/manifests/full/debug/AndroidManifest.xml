@@ -16,7 +16,8 @@
         android:name="android.support.multidex.MultiDexApplication"
         android:debuggable="true"
         android:icon="@drawable/download"
-        android:label="@string/app_name" >
+        android:label="@string/app_name"
+        android:testOnly="true" >
         <activity
             android:name="com.androidhive.musicplayer.MainActivity"
             android:configChanges="keyboardHidden|orientation"

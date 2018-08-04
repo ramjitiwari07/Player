@@ -1,0 +1,3 @@
+# Referenced at C:\Users\mapit06\Desktop\New folder\DoodleblueMusicPlayer\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:15
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

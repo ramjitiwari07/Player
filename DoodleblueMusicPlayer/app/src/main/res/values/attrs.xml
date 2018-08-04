@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MaskedEditText">
+        <attr name="mask" format="string" />
+        <attr name="allowed_chars" format="string" />
+        <attr name="denied_chars" format="string" />
+        <attr name="char_representation" format="string" />
+    </declare-styleable>
+
+    <attr name="rv_backgroundColor" format="color" />
+    <attr name="rv_backgroundPressColor" format="color" />
+    <attr name="rv_cornerRadius" format="dimension" />
+    <attr name="rv_strokeWidth" format="dimension" />
+    <attr name="rv_strokeColor" format="color" />
+    <attr name="rv_strokePressColor" format="color" />
+    <attr name="rv_textPressColor" format="color" />
+    <attr name="rv_isRadiusHalfHeight" format="boolean" />
+    <attr name="rv_isWidthHeightEqual" format="boolean" />
+    <attr name="rv_cornerRadius_TL" format="dimension" />
+    <attr name="rv_cornerRadius_TR" format="dimension" />
+    <attr name="rv_cornerRadius_BL" format="dimension" />
+    <attr name="rv_cornerRadius_BR" format="dimension" />
+    <attr name="rv_isRippleEnable" format="boolean" />
+    <attr name="rv_isRadiusHalfHeightLeft" format="boolean" />
+    <attr name="rv_isRadiusHalfHeightRight" format="boolean" />
+    <declare-styleable name="ImageViewCircular">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="border_overlay" format="boolean" />
+    </declare-styleable>
+
+
+    <declare-styleable name="RoundTextView">
+        <attr name="rv_backgroundColor" />
+        <attr name="rv_backgroundPressColor" />
+        <attr name="rv_cornerRadius" />
+        <attr name="rv_strokeWidth" />
+        <attr name="rv_strokeColor" />
+        <attr name="rv_strokePressColor" />
+        <attr name="rv_textPressColor" />
+        <attr name="rv_isRadiusHalfHeight" />
+        <attr name="rv_isWidthHeightEqual" />
+        <attr name="rv_cornerRadius_TL" />
+        <attr name="rv_cornerRadius_TR" />
+        <attr name="rv_cornerRadius_BL" />
+        <attr name="rv_cornerRadius_BR" />
+        <attr name="rv_isRippleEnable" />
+        <attr name="rv_isRadiusHalfHeightLeft" />
+        <attr name="rv_isRadiusHalfHeightRight" />
+    </declare-styleable>
+    <declare-styleable name="RoundLinearLayout">
+        <attr name="rv_backgroundColor" />
+        <attr name="rv_backgroundPressColor" />
+        <attr name="rv_cornerRadius" />
+        <attr name="rv_strokeWidth" />
+        <attr name="rv_strokeColor" />
+        <attr name="rv_strokePressColor" />
+        <attr name="rv_isRadiusHalfHeight" />
+        <attr name="rv_isWidthHeightEqual" />
+        <attr name="rv_cornerRadius_TL" />
+        <attr name="rv_cornerRadius_TR" />
+        <attr name="rv_cornerRadius_BL" />
+        <attr name="rv_cornerRadius_BR" />
+        <attr name="rv_isRippleEnable" />
+        <attr name="rv_isRadiusHalfHeightLeft" />
+        <attr name="rv_isRadiusHalfHeightRight" />
+    </declare-styleable>
+    <declare-styleable name="RoundedImageView1">
+        <attr name="rv_cornerRadius" />
+        <attr name="rv_cornerRadius_TL" />
+        <attr name="rv_cornerRadius_TR" />
+        <attr name="rv_cornerRadius_BL" />
+        <attr name="rv_cornerRadius_BR" />
+        <attr name="rv_strokeWidth" />
+        <attr name="rv_strokeColor" />
+        <attr name="rv_mutateBackground" format="boolean" />
+        <attr name="rv_isOval" format="boolean" />
+        <attr name="android:scaleType" />
+        <attr name="rv_tileMode">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+        <attr name="rv_tileMode_x">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+        <attr name="rv_tileMode_y">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+
+
+    </declare-styleable>
+
+
+    <declare-styleable name="MaterialSpinner">
+        <attr name="ms_baseColor" format="color"/>
+        <attr name="ms_highlightColor" format="color"/>
+        <attr name="ms_errorColor" format="color"/>
+        <attr name="ms_error" format="string"/>
+        <attr name="ms_hint" format="string"/>
+        <attr name="ms_hintColor" format="color"/>
+        <attr name="ms_hintTextSize" format="dimension"/>
+        <attr name="ms_floatingLabelText" format="string"/>
+        <attr name="ms_floatingLabelColor" format="color"/>
+        <attr name="ms_multiline" format="boolean"/>
+        <attr name="ms_nbErrorLines" format="integer"/>
+        <attr name="ms_typeface" format="string"/>
+        <attr name="ms_alignLabels" format="boolean"/>
+        <attr name="ms_thickness" format="dimension"/>
+        <attr name="ms_thickness_error" format="dimension"/>
+        <attr name="ms_arrowSize" format="dimension"/>
+        <attr name="ms_arrowColor" format="color"/>
+        <attr name="ms_enableFloatingLabel" format="boolean"/>
+        <attr name="ms_enableErrorLabel" format="boolean"/>
+        <attr name="ms_alwaysShowFloatingLabel" format="boolean"/>
+        <attr name="ms_isRtl" format="boolean"/>
+        <attr name="ms_hintView" format="reference"/>
+        <attr name="ms_dropDownHintView" format="reference"/>
+
+    </declare-styleable>
+
+</resources>

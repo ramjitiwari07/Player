@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Music Player</string>
+    <string name="internetproblem">Internet connection not working</string>
+
+    <string name="confirm">Confirm !</string>
+    <string name="do_you_want_to_close_the_app">Are you sure, you want to close the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

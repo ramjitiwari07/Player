@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Aug 04 19:48:16 IST 2018
+1.base=C\:\\Users\\mapit06\\Desktop\\New folder\\DoodleblueMusicPlayer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+2.path=classes2.dex
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\mapit06\\Desktop\\New folder\\DoodleblueMusicPlayer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=songs/sample.mp3
+0.set=ASSET
+0.base=C\:\\Users\\mapit06\\Desktop\\New folder\\DoodleblueMusicPlayer\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=classes.dex

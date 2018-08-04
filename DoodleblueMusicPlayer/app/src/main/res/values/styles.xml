@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="MatchSpinnerStyle" parent="android:style/Widget.ListView.DropDown">
+
+
+        <item name="android:listSelector">#ffffff</item>
+
+        <!--   <item name="android:popupBackground">#337ab7</item>-->
+        <!-- Required for pre-Lollipop. -->
+        <item name="overlapAnchor">false</item>
+        <item name="android:dropDownVerticalOffset">-36dip</item>
+        <item name="android:divider">#337ab7</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="colorControlNormal">#337ab7</item>
+
+    </style>
+
+    <style name="Hostal_AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:splitMotionEvents">false</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="colorControlActivated">#337ab7</item>
+
+        <item name="actionOverflowMenuStyle">@style/MatchSpinnerStyle</item>
+
+    </style>
+
+
+
+</resources>
